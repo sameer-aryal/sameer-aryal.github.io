@@ -22,13 +22,13 @@ I am a Ph.D. candidate at New York University.
             Center for Neural Science <br/>
 	    New York University <br/>
 	    4 Washington Place, Room 722 <br/>
-	    New York, NY 10003 <br/>
+	    New York, NY 10003
         </div>
 
         <div class="span2">
         <a href="../assets/headshot.jpg">
             <img src="../assets/headshot.jpg"
-                  title="Blue Ham" alt="Blue Ham"/></a>
+                  title="Sameer Aryal" alt="the one and only"/></a>
         </div>
     </div>
 </div>
