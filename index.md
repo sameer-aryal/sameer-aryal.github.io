@@ -18,8 +18,8 @@ I am a Ph.D. candidate at New York University. His research interests include an
 
     <div class="row-fluid">
         <div class="span5">
-            Blue Ham<br/>
-            Email: WOOFWOOF@goodboy.com<br/>
+            Sameer Aryal<br/>
+            Email: sameer.aryal@gmail.com<br/>
         </div>
 
         <div class="span2">
@@ -34,8 +34,8 @@ I am a Ph.D. candidate at New York University. His research interests include an
   <div class="navbar-inner">
       <ul class="nav">
           <li><a href="{{ BASE_PATH }}/assets/CV.pdf">cv</a></li>
-          <li><a href="https://github.com/mbcarlos">GitHub</a></li>
-          <li><a href="https://twitter.com/dog_feelings">Twitter (@dog_feelings)</a></li>
+          <li><a href="https://github.com/sameer785">GitHub</a></li>
+          <li><a href="https://twitter.com/_sameeraryal">Twitter (@_sameeraryal)</a></li>
       </ul>
   </div>
 </div>
