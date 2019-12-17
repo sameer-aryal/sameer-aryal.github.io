@@ -13,7 +13,7 @@ I am a Ph.D. student in <a href="http://www.klannlabnyu.org"> Eric Klann's </a> 
 <div class="container">
 
     <div class="row-fluid">
-        <div class="span5">
+        <div class="span4">
         <a href="../assets/headshot.jpg">
             <img src="../assets/headshot.jpg"
                   title="Sameer Aryal" alt="the one and only"/></a>
