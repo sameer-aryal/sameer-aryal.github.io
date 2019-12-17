@@ -34,8 +34,10 @@ I am a Ph.D. candidate at New York University.
   <div class="navbar-inner">
       <ul class="nav">
           <li><a href="{{ BASE_PATH }}/assets/CV.pdf">CV</a></li>
+	  <li><a href="https://www.linkedin.com/in/sameer-aryal-nyu/">LinkedIn</a></li>
           <li><a href="https://github.com/sameer785">GitHub</a></li>
           <li><a href="https://twitter.com/_sameeraryal">Twitter (@_sameeraryal)</a></li>
+	  <li><a href="mailto:sameer.aryal@gmail.com">Email</a></li>
       </ul>
   </div>
 </div>
