@@ -14,12 +14,15 @@ I am a Ph.D. candidate at New York University.
 
 
 <div class="container">
-<h4><a name="contact"></a>Contact</h4>
+<h4><a name="contact"></a>About me</h4>
 
     <div class="row-fluid">
         <div class="span5">
-            Sameer Aryal<br/>
-            Email: sameer.aryal@gmail.com<br/>
+	     Sameer Aryal <br/>
+            Center for Neural Science <br/>
+	    New York University <br/>
+	    4 Washington Place, Room 722 <br/>
+	    New York, NY 10003 <br/>
         </div>
 
         <div class="span2">
@@ -33,11 +36,10 @@ I am a Ph.D. candidate at New York University.
 <div class="navbar">
   <div class="navbar-inner">
       <ul class="nav">
-          <li><a href="{{ BASE_PATH }}/assets/CV.pdf">CV</a></li>
+	  <li><a href="mailto:sameer.aryal@gmail.com">Email</a></li>
 	  <li><a href="https://www.linkedin.com/in/sameer-aryal-nyu/">LinkedIn</a></li>
           <li><a href="https://github.com/sameer785">GitHub</a></li>
-          <li><a href="https://twitter.com/_sameeraryal">Twitter (@_sameeraryal)</a></li>
-	  <li><a href="mailto:sameer.aryal@gmail.com">Email</a></li>
+          <li><a href="https://twitter.com/_sameeraryal">Twitter(@_sameeraryal)</a></li>
       </ul>
   </div>
 </div>
