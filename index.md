@@ -15,7 +15,7 @@ I am a Ph.D. student in <a href="http://www.klannlabnyu.org"> Eric Klann's </a> 
 
     <div class="row-fluid">
         <div class="span5">
-	     Sameer Aryal <br/>
+	    Sameer Aryal <br/>
             Center for Neural Science <br/>
 	    New York University <br/>
 	    4 Washington Place, Room 722 <br/>
@@ -34,6 +34,7 @@ I am a Ph.D. student in <a href="http://www.klannlabnyu.org"> Eric Klann's </a> 
   <div class="navbar-inner">
       <ul class="nav">
 	  <li><a href="mailto:sameer.aryal@gmail.com">Email</a></li>
+	  <li><a href="https://scholar.google.com/citations?user=jZd3a_gAAAAJ&hl=en">Google Scholar</a></li>
 	  <li><a href="https://www.linkedin.com/in/sameer-aryal-nyu/">LinkedIn</a></li>
           <li><a href="https://github.com/sameer785">GitHub</a></li>
           <li><a href="https://twitter.com/_sameeraryal">Twitter(@_sameeraryal)</a></li>
