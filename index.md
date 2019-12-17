@@ -5,10 +5,7 @@ description: Sameer Aryal is a PhD candidate at New Y.
 keywords: Sameer Aryal, NYU, NYUMC, genomics, bioinformatics, neurobiology, fragile X syndrome, learning, memory, protein synthesis, mRNA translation, ribosome profiling, RNA-seq
 ---
 
-I am a Ph.D. candidate at New York University. 
-
-[curriculum vitae ![CV as pdf]({{ BASE_PATH }}/pages/icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/CV.pdf)<br/>
-
+I am a Ph.D. student in Eric Klann's laboratory at New York University. My primary research interest lies in leveraging high-throughput and genome-wide approaches to examine the molecular mechanisms of memory and how these mechanisms are disrupted in neuropsychiatric disorders. 
 
 ---
 
