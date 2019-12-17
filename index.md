@@ -19,7 +19,7 @@ I am a Ph.D. candidate at New York University.
     <div class="row-fluid">
         <div class="span5">
             Sameer Aryal<br/>
-            Email: sameer <dot> aryal <at> gmail <dot> com<br/>
+            Email: sameer.aryal@gmail.com<br/>
         </div>
 
         <div class="span2">
