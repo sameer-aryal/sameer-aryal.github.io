@@ -14,7 +14,7 @@ I am a Ph.D. candidate at New York University.
 
 
 <div class="container">
-<h4><a name="contact"></a>About me</h4>
+<h4><a name="contact"></a>Contact me</h4>
 
     <div class="row-fluid">
         <div class="span5">
