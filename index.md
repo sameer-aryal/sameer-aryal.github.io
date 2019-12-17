@@ -14,19 +14,20 @@ I am a Ph.D. student in <a href="http://www.klannlabnyu.org"> Eric Klann's </a> 
 <h4><a name="contact"></a>Contact me</h4>
 
     <div class="row-fluid">
-        <div class="span5">
-	    Sameer Aryal <br/>
-            Center for Neural Science <br/>
-	    New York University <br/>
-	    4 Washington Place, Room 722 <br/>
-	    New York, NY 10003
-        </div>
-
         <div class="span2">
         <a href="../assets/headshot.jpg">
             <img src="../assets/headshot.jpg"
                   title="Sameer Aryal" alt="the one and only"/></a>
         </div>
+
+    <div class="span2">
+	    Sameer Aryal <br/>
+            Center for Neural Science <br/>
+	    New York University <br/>
+	    4 Washington Place, Room 722 <br/>
+	    New York, NY 10003
+     </div>
+
     </div>
 </div>
 
