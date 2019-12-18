@@ -32,7 +32,6 @@ I am a Ph.D. student in <a href="http://www.klannlabnyu.org"> Eric Klann's </a> 
     </div>
 </div>
 <br/>
-<br/>
 <div class="navbar">
   <div class="navbar-inner">
       <ul class="nav">
