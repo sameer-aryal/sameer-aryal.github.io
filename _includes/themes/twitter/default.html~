@@ -28,7 +28,7 @@
     <link href="{{ BASE_PATH }}{{ site.JB.rss_path }}" type="application/rss+xml" rel="alternate" title="Sitewide RSS Feed">
 
   </head>
-2
+
   <body>
     <div class="navbar">
       <div class="navbar-inner">
@@ -38,7 +38,7 @@
               <li><a href="{{ BASE_PATH }}/assets/CV.pdf">CV</a></li>
               <li><a href="{{ BASE_PATH }}/pages/research.html">Research</a></li>
 	      <li><a href="{{ BASE_PATH }}/pages/publications.html">Publications</a></li>
-	      <li><a href="{{ BASE_PATH }}/pages/code.html">Code</a></li>
+	      <li><a href="{{ BASE_PATH }}/pages/research.html">Code</a></li>
           </ul>
         </div>
       </div>
