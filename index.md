@@ -1,7 +1,7 @@
 ---
 layout: frontpage
 title: Sameer Aryal
-description: Sameer Aryal is a PhD candidate at New Y. 
+description: Sameer Aryal is a molecular and computational biologist with interests and expertise in neuroscience, genomics, and bioinformatics.
 keywords: Sameer Aryal, NYU, NYUMC, genomics, bioinformatics, neurobiology, fragile X syndrome, learning, memory, protein synthesis, mRNA translation, ribosome profiling, RNA-seq
 ---
 
