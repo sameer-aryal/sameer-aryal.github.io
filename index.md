@@ -2,10 +2,14 @@
 layout: frontpage
 title: Sameer Aryal
 description: Sameer Aryal is a molecular and computational biologist with interests and expertise in neuroscience, genomics, and bioinformatics.
-keywords: Sameer Aryal, NYU, NYUMC, genomics, bioinformatics, neurobiology, fragile X syndrome, learning, memory, protein synthesis, mRNA translation, ribosome profiling, RNA-seq
+keywords: Sameer Aryal, Broad Institute, NYU, NYUMC, genomics, bioinformatics, neuropsychiatry, neurobiology, fragile X syndrome, learning, memory, protein synthesis, mRNA translation, ribosome profiling, RNA-seq
 ---
 
-I am a Ph.D. student in <a href="http://www.klannlabnyu.org"> Eric Klann's </a> laboratory at Center for Neural Science, New York University. I am primarily interested in genome-scale examination of the molecular mechanisms of memory and how these mechanisms are disrupted in neuropsychiatric disorders.
+I am a postdoctoral associate at Stanley Center for Psychiatric Research at the Broad Institute of MIT and Harvard.
+
+I completed my Ph.D with <a href="http://www.klannlabnyu.org"> Eric Klann </a> at Center for Neural Science, New York University.
+
+My primary research interest lies in genome-scale examination of the molecular mechanisms of memory and how these mechanisms are disrupted in neuropsychiatric disorders.
 
 ---
 
