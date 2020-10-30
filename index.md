@@ -5,7 +5,7 @@ description: Sameer Aryal is a molecular and computational biologist with intere
 keywords: Sameer Aryal, Broad Institute, NYU, NYUMC, genomics, bioinformatics, neuropsychiatry, neurobiology, fragile X syndrome, learning, memory, protein synthesis, mRNA translation, ribosome profiling, RNA-seq
 ---
 
-I am a postdoctoral associate at Stanley Center for Psychiatric Research at the Broad Institute of MIT and Harvard.
+I am a postdoctoral associate at <a href="https://broadinstitute.org/stanley"> The Stanley Center </a> at the <a href="https://broadinsittue.org> Broad Institute of MIT and Harvard </a>.
 
 I completed my Ph.D with <a href="http://www.klannlabnyu.org"> Eric Klann </a> at Center for Neural Science, New York University.
 
