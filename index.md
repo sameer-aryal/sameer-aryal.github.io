@@ -27,10 +27,11 @@ My primary research interest lies in genome-scale examination of the molecular m
     	    <h4><a name="contact"></a>Contact me</h4>
 
     	    Sameer Aryal <br/>
-            Center for Neural Science <br/>
-	    New York University <br/>
-	    4 Washington Place, Room 722 <br/>
-	    New York, NY 10003
+            Stanley Center for Psychiatric Research <br/>
+	    Broad Institute of MIT and Harvard <br/>
+	    75 Ames Street <br/>
+	    Cambridge, MA 02142 <br/>
+	    (413) 347-9726
      </div>
 
     </div>
