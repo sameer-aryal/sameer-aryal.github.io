@@ -27,7 +27,7 @@
   <meta name="twitter:description" content="{{ social_description }}">
   <meta name="twitter:image" content="{{ site.production_url }}/assets/1.jpg">
 
-  <link href="/assets/css/main.css" rel="stylesheet" type="text/css">
+  <link href="/assets/css/main.css?v={{ site.time | date: '%s' }}" rel="stylesheet" type="text/css">
 </head>
 <body>
   <nav class="site-nav">
