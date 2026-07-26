@@ -16,7 +16,7 @@ keywords: Sameer Aryal, Broad Institute, Stanley Center, NYU, genomics, bioinfor
 </div>
 
 <p class="summary">
-I am an RNA neurobiologist investigating the molecular mechanisms of neurodevelopmental and psychiatric disorders. My work integrates experimental neuroscience with computational genomics &mdash; combining synaptic proteomics, transcriptomics, and genetic mouse models &mdash; to connect human disease risk genes to synaptic and circuit phenotypes. I completed my Ph.D. with <a href="http://www.klannlabnyu.org">Eric Klann</a> at the Center for Neural Science, New York University.
+I am a neurobiologist investigating the molecular mechanisms of neurodevelopmental and psychiatric disorders. My work integrates experimental neuroscience with computational genomics &mdash; combining synaptic proteomics, transcriptomics, and genetic mouse models &mdash; to connect human disease risk genes to synaptic and circuit phenotypes. I completed my Ph.D. with <a href="http://www.klannlabnyu.org">Eric Klann</a> at the Center for Neural Science, New York University.
 </p>
 
 <div class="tag-row">
