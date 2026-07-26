@@ -45,7 +45,7 @@ As part of this earlier work on data analysis methods, I contributed to <a href=
 <div class="expertise-grid">
   <div class="expertise-card">
     <h3>RNA regulation in the brain</h3>
-    <p>Alternative splicing, mRNA translation, transcriptomic regulation</p>
+    <p>Alternative splicing, mRNA translation, post-transcriptional regulation</p>
   </div>
   <div class="expertise-card">
     <h3>Functional genomics</h3>
