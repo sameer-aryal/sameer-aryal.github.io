@@ -16,7 +16,7 @@ keywords: Sameer Aryal, Broad Institute, Stanley Center, NYU, genomics, bioinfor
 </div>
 
 <p class="summary">
-I am a computational and experimental neurobiologist studying the molecular mechanisms of neuropsychiatric and neurodevelopmental disorders. My work integrates synaptic proteomics, transcriptomics, and single-cell genomics with genetic mouse models to connect human disease risk genes to synaptic and circuit phenotypes, with particular depth in RNA regulation in the brain &mdash; mRNA translation, splicing, and post-transcriptional control.
+My research examines how genetic risk for psychiatric and neurodevelopmental disorders is translated into molecular, cellular, and circuit dysfunction. I focus on two complementary questions: how diverse risk genes converge on shared disease mechanisms, and how disruption of RNA regulation &mdash; including translation, alternative splicing, and isoform control &mdash; alters synaptic and cellular function. By integrating genetic mouse models with human brain multi-omics and targeted mechanistic experiments, I aim to distinguish conserved disease biology from model-specific effects and identify experimentally tractable mechanisms.
 </p>
 
 <p class="training">

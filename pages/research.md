@@ -4,23 +4,17 @@ title: Research
 description: Sameer Aryal's research on the molecular mechanisms of neurodevelopmental and psychiatric disorders, from multi-omics integration to RNA regulation in the brain.
 ---
 
-I am a computational and experimental neurobiologist studying the molecular mechanisms of neuropsychiatric and neurodevelopmental disorders. My approach integrates synaptic proteomics, transcriptomics, and single-cell genomics with genetic mouse models to connect human disease risk genes to synaptic and circuit phenotypes &mdash; with particular depth in RNA regulation in the brain, including mRNA translation, alternative splicing, and post-transcriptional control, and how disruption of these mechanisms contributes to disease.
+<h2>Research program</h2>
+<p>My research examines how genetic risk for psychiatric and neurodevelopmental disorders is translated into molecular, cellular, and circuit dysfunction. I focus on two complementary questions: how diverse risk genes converge on shared disease mechanisms, and how disruption of RNA regulation &mdash; including translation, alternative splicing, and isoform control &mdash; alters synaptic and cellular function. By integrating genetic mouse models with human brain multi-omics and targeted mechanistic experiments, I aim to distinguish conserved disease biology from model-specific effects and identify experimentally tractable mechanisms.</p>
 
-<h2>Current research</h2>
-<div class="entry">
-  <div class="entry-head">
-    <h3>Stanley Center for Psychiatric Research, Broad Institute of MIT and Harvard</h3>
-    <span class="entry-meta">2020 &ndash; present</span>
-  </div>
-  <ul>
-    <li>Lead multidisciplinary projects investigating the molecular mechanisms of schizophrenia and bipolar disorder through integrative analysis of genetic mouse models and human genomic datasets.</li>
-    <li>Direct cross-model meta-analysis of synaptic proteomics datasets from multiple schizophrenia genetic mouse models to identify convergent molecular pathways.</li>
-    <li>Oversee mechanistic studies of psychiatric risk genes in genetic mouse models, focusing on <em>SRRM2</em>, a rare high-effect schizophrenia risk gene encoding an RNA-binding protein implicated in RNA processing and splicing regulation.</li>
-    <li>Characterized transcriptomic and splicing dysregulation in <em>Srrm2</em><sup>+/&minus;</sup> mice, identifying selective loss of the &gamma; isoform of SynGAP and mis-splicing of its interactor Agap3 &mdash; linking RNA splicing defects to synaptic remodeling in a schizophrenia risk gene model.</li>
-    <li>Analyzed synaptic proteomics datasets from schizophrenia, bipolar disorder, and control human brains, and integrated them with proteomics from genetic mouse models (including <em>Akap11</em> mutants) to reveal convergent disease pathways using network analysis (WGCNA).</li>
-    <li>Supervise research associates and coordinate experimental and computational efforts across neurobiology, proteomics, and therapeutics collaborators.</li>
-  </ul>
-</div>
+<h3>Convergent mechanisms across psychiatric risk genes</h3>
+<p>I lead comparative analyses across genetic mouse models of schizophrenia and bipolar disorder, integrating synaptic proteomics, transcriptomics, and human brain datasets to identify molecular pathways that recur across distinct forms of genetic risk.</p>
+
+<h3>RNA regulation and synaptic dysfunction</h3>
+<p>I investigate how disruption of RNA-binding and regulatory proteins alters splicing, isoform expression, translation, and synaptic protein composition. Work on <em>SRRM2</em> haploinsufficiency has linked altered RNA processing to selective loss of SynGAP-&gamma;, Agap3 mis-splicing, synaptic remodeling, and oligodendrocyte deficits.</p>
+
+<h3>From multi-omics signatures to mechanism</h3>
+<p>I use molecular, cellular, and functional experiments to test hypotheses emerging from large-scale datasets, with the goal of connecting disease-associated molecular signatures to specific biological mechanisms and potentially tractable intervention points.</p>
 
 <h2>Graduate research</h2>
 <div class="entry">
