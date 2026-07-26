@@ -141,7 +141,10 @@ p { margin: 0 0 1em; }
 }
 
 .hero-text {
-  max-width: 720px;
+  /* Right edge should align with .summary/.training below, which start at
+     the container's left edge — subtract the photo + gap this block is
+     offset by so both column right edges land at the same 720px mark. */
+  max-width: calc(720px - 230px - 40px);
 }
 
 .hero-text h1 {
@@ -397,6 +400,9 @@ p { margin: 0 0 1em; }
   .hero img.headshot {
     width: 160px;
     height: auto;
+  }
+  .hero-text {
+    max-width: 720px;
   }
   .content { padding-top: 28px; }
   .site-footer .wrap { flex-direction: column; align-items: flex-start; }
