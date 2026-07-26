@@ -160,10 +160,9 @@ p { margin: 0 0 1em; }
 }
 
 .training {
-  font-size: 0.94rem;
-  color: var(--color-text-muted);
+  font-size: 1.02rem;
+  color: var(--color-text);
   max-width: 720px;
-  margin-top: -0.4em;
 }
 
 /* ---------- Buttons ---------- */
