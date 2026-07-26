@@ -20,7 +20,7 @@ I am a computational and experimental neurobiologist studying the molecular mech
 </p>
 
 <p class="training">
-I completed my Ph.D. with <a href="http://www.klannlabnyu.org">Eric Klann</a> at the Center for Neural Science, New York University, and carried out postdoctoral training with Morgan Sheng at the <a href="https://shenglab.broadinstitute.org">Sheng Lab</a>, Broad Institute of MIT and Harvard.
+I completed my Ph.D. with <a href="http://www.klannlabnyu.org">Eric Klann</a> at the Center for Neural Science, New York University, and carried out postdoctoral training with <a href="https://shenglab.broadinstitute.org">Morgan Sheng</a> at Broad Institute of MIT and Harvard.
 </p>
 
 <div class="tag-row">
