@@ -16,7 +16,7 @@ keywords: Sameer Aryal, Broad Institute, Stanley Center, NYU, genomics, bioinfor
 </div>
 
 <p class="summary">
-Schizophrenia and bipolar disorder each involve dozens of genetically distinct risk genes, but a mechanism tied to one rare mutation makes a poor drug target &mdash; one shared across many independent forms of genetic risk is a much better one. My research is built on that bet: that mapping how diverse risk genes converge on common molecular mechanisms, validated across genetic mouse models and human brain tissue, is the fastest route to therapeutically tractable biology. RNA regulation in the brain &mdash; translation, alternative splicing, and isoform control &mdash; is my primary lens onto this convergence, since disruption of these pathways recurs across several of the models I study.
+Schizophrenia and bipolar disorder each involve dozens of genetically distinct risk genes, but a mechanism tied to one rare mutation may have limited therapeutic reach&mdash;one shared across independent forms of genetic risk is likely to be more broadly useful. My research is built on that bet: that mapping how diverse risk genes converge on common molecular mechanisms, validated across genetic mouse models and human brain tissue, is the fastest route to therapeutically tractable biology. RNA regulation in the brain &mdash; translation, alternative splicing, and isoform control &mdash; is my primary lens onto this convergence, since disruption of these pathways recurs across several of the models I study.
 </p>
 
 <p class="training">

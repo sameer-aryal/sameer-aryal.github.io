@@ -5,16 +5,16 @@ description: Sameer Aryal's research on the molecular mechanisms of neurodevelop
 ---
 
 <h2>Research program</h2>
-<p>Schizophrenia and bipolar disorder each involve dozens of genetically distinct risk genes, but a mechanism tied to one rare mutation makes a poor drug target &mdash; one shared across many independent forms of genetic risk is a much better one. My research is built on that bet: that mapping how diverse risk genes converge on common molecular mechanisms, validated across genetic mouse models and human brain tissue, is the fastest route to therapeutically tractable biology. RNA regulation in the brain &mdash; translation, alternative splicing, and isoform control &mdash; is my primary lens onto this convergence, since disruption of these pathways recurs across several of the models I study.</p>
+<p>Schizophrenia and bipolar disorder each involve dozens of genetically distinct risk genes, but a mechanism tied to one rare mutation may have limited therapeutic reach&mdash;one shared across independent forms of genetic risk is likely to be more broadly useful. My research is built on that bet: that mapping how diverse risk genes converge on common molecular mechanisms, validated across genetic mouse models and human brain tissue, is the fastest route to therapeutically tractable biology. RNA regulation in the brain &mdash; translation, alternative splicing, and isoform control &mdash; is my primary lens onto this convergence, since disruption of these pathways recurs across several of the models I study.</p>
 
 <h3>Convergent mechanisms across psychiatric risk genes</h3>
 <p>I lead comparative analyses across genetic mouse models of schizophrenia and bipolar disorder, integrating synaptic proteomics, transcriptomics, and human brain datasets to identify molecular pathways that recur across distinct forms of genetic risk &mdash; the shared biology most likely to translate into therapeutic targets.</p>
 
 <h3>RNA regulation as a lens on convergence</h3>
-<p>RNA regulation is where I pursue this convergence question directly: I investigate how disruption of RNA-binding and regulatory proteins alters splicing, isoform expression, translation, and synaptic protein composition. Work on <em>SRRM2</em> haploinsufficiency has linked altered RNA processing to selective loss of SynGAP-&gamma;, Agap3 mis-splicing, synaptic remodeling, and oligodendrocyte deficits.</p>
+<p>RNA regulation is where I pursue this convergence question directly: I investigate how disruption of RNA-binding and regulatory proteins alters splicing, isoform expression, translation, and synaptic protein composition. Work on <em>SRRM2</em> haploinsufficiency has shown how disruption of a single RNA splicing factor can produce coordinated isoform-specific, synaptic, and cellular abnormalities, including SynGAP-&gamma; loss, Agap3 mis-splicing, and oligodendrocyte deficits.</p>
 
 <h3>From multi-omics signatures to mechanism</h3>
-<p>I use molecular, cellular, and functional experiments to test hypotheses emerging from large-scale datasets, connecting disease-associated molecular signatures to specific mechanisms and tractable intervention points.</p>
+<p>I use molecular, cellular, and functional experiments to test hypotheses emerging from large-scale datasets, connecting disease-associated molecular signatures to specific mechanisms and tractable intervention points. I am also investigating biomarkers such as NPTX2 that may report shared changes in neuronal activity and synaptic function across models and human disease.</p>
 
 <h2>Graduate research</h2>
 <div class="entry">
