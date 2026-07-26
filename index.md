@@ -6,8 +6,8 @@ keywords: Sameer Aryal, Broad Institute, Stanley Center, NYU, genomics, bioinfor
 ---
 
 <div class="hero">
-  <a href="/assets/headshot.jpg">
-    <img class="headshot" src="/assets/headshot.jpg" alt="Sameer Aryal">
+  <a href="/assets/1.jpg">
+    <img class="headshot" src="/assets/1.jpg" alt="Sameer Aryal">
   </a>
   <div class="hero-text">
     <h1>Sameer Aryal, Ph.D.</h1>
