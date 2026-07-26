@@ -1,6 +1,44 @@
----
-theme :
-  name : twitter
----
-{% include JB/setup %}
-{% include themes/twitter/default.html %}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>{% if page.title and page.title != site.title %}{{ page.title }} · {{ site.title }}{% else %}{{ site.title }}{% endif %}</title>
+  {% if page.description %}<meta name="description" content="{{ page.description }}">{% endif %}
+  {% if page.keywords %}<meta name="keywords" content="{{ page.keywords }}">{% endif %}
+  <meta name="author" content="{{ site.author.name }}">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="canonical" href="{{ site.production_url }}{{ page.url }}">
+  <link href="/assets/css/main.css" rel="stylesheet" type="text/css">
+</head>
+<body>
+  <nav class="site-nav">
+    <div class="wrap">
+      <a class="brand" href="/">Sameer Aryal</a>
+      <ul>
+        <li><a class="nav-link" href="/">Home</a></li>
+        <li><a class="nav-link" href="/pages/research.html">Research</a></li>
+        <li><a class="nav-link" href="/pages/publications.html">Publications</a></li>
+        <li><a class="nav-link" href="/assets/sAryal_resume.pdf">Resume</a></li>
+        <li><a class="nav-link" href="/assets/CV.pdf">CV</a></li>
+      </ul>
+    </div>
+  </nav>
+
+  <div class="wrap content">
+    {{ content }}
+  </div>
+
+  <footer class="site-footer">
+    <div class="wrap">
+      <ul class="social-links">
+        <li><a href="mailto:sameer.aryal@gmail.com">Email</a></li>
+        <li><a href="https://scholar.google.com/citations?user=jZd3a_gAAAAJ&hl=en">Google Scholar</a></li>
+        <li><a href="https://www.linkedin.com/in/sameer-aryal-nyu/">LinkedIn</a></li>
+        <li><a href="https://github.com/sameer785">GitHub</a></li>
+        <li><a href="https://twitter.com/_sameeraryal">Twitter</a></li>
+      </ul>
+      <div class="copyright">&copy; {{ site.time | date: '%Y' }} Sameer Aryal</div>
+    </div>
+  </footer>
+</body>
+</html>

@@ -1,50 +1,44 @@
 ---
 layout: frontpage
 title: Sameer Aryal
-description: Sameer Aryal is a molecular and computational biologist with interests and expertise in neuroscience, genomics, and bioinformatics.
-keywords: Sameer Aryal, Broad Institute, NYU, NYUMC, genomics, bioinformatics, neuropsychiatry, neurobiology, schizophrenia, bipolar disorder, proteomics, fragile X syndrome, learning, memory, protein synthesis, mRNA translation, ribosome profiling, RNA-seq
+description: Sameer Aryal, Ph.D. is a Research Scientist at the Stanley Center for Psychiatric Research, Broad Institute of MIT and Harvard, studying RNA regulatory mechanisms in neurodevelopmental and psychiatric disorders.
+keywords: Sameer Aryal, Broad Institute, Stanley Center, NYU, genomics, bioinformatics, neuropsychiatry, neurobiology, schizophrenia, bipolar disorder, proteomics, fragile X syndrome, RNA regulation, mRNA translation, ribosome profiling, RNA-seq, splicing
 ---
 
-I am a Research Scientist at <a href="https://www.broadinstitute.org/stanley"> The Stanley Center </a> at the <a href="https://www.broadinstitute.org">Broad Institute of MIT and Harvard</a>.
-
-I completed my Ph.D with <a href="http://www.klannlabnyu.org"> Eric Klann </a> at Center for Neural Science, New York University.
-
-My primary research interest lies in genome-scale examination of the molecular mechanisms of memory and how these mechanisms are disrupted in neuropsychiatric disorders.
-
----
-
-
-<div class="container">
-
-    <div class="row-fluid">
-        <div class="span4">
-        <a href="../assets/headshot.jpg">
-            <img src="../assets/headshot.jpg"
-                  title="Sameer Aryal" alt="the one and only"/></a>
-        </div>
-
-    <div class="span3">
-    	    <h4><a name="contact"></a>Contact me</h4>
-
-    	    Sameer Aryal <br/>
-            Stanley Center for Psychiatric Research <br/>
-	    Broad Institute of MIT and Harvard <br/>
-	    75 Ames Street <br/>
-	    Cambridge, MA 02142 <br/>
-	    (413) 347-9726
-     </div>
-
-    </div>
-</div>
-<br/>
-<div class="navbar">
-  <div class="navbar-inner">
-      <ul class="nav">
-	  <li><a href="mailto:sameer.aryal@gmail.com">Email</a></li>
-	  <li><a href="https://scholar.google.com/citations?user=jZd3a_gAAAAJ&hl=en">Google Scholar</a></li>
-	  <li><a href="https://www.linkedin.com/in/sameer-aryal-nyu/">LinkedIn</a></li>
-          <li><a href="https://github.com/sameer785">GitHub</a></li>
-          <li><a href="https://twitter.com/_sameeraryal">Twitter(@_sameeraryal)</a></li>
-      </ul>
+<div class="hero">
+  <a href="/assets/headshot.jpg">
+    <img class="headshot" src="/assets/headshot.jpg" alt="Sameer Aryal">
+  </a>
+  <div class="hero-text">
+    <h1>Sameer Aryal, Ph.D.</h1>
+    <p class="role">Research Scientist, <a href="https://www.broadinstitute.org/stanley">Stanley Center for Psychiatric Research</a> · <a href="https://www.broadinstitute.org">Broad Institute of MIT and Harvard</a></p>
   </div>
+</div>
+
+<p class="summary">
+I am an RNA neurobiologist investigating the molecular mechanisms of neurodevelopmental and psychiatric disorders. My work integrates experimental neuroscience with computational genomics &mdash; combining synaptic proteomics, transcriptomics, and genetic mouse models &mdash; to connect human disease risk genes to synaptic and circuit phenotypes. I completed my Ph.D. with <a href="http://www.klannlabnyu.org">Eric Klann</a> at the Center for Neural Science, New York University.
+</p>
+
+<div class="tag-row">
+  <span class="tag">RNA regulation</span>
+  <span class="tag">Functional genomics</span>
+  <span class="tag">Multi-omics integration</span>
+  <span class="tag">Computational biology</span>
+  <span class="tag">Experimental neuroscience</span>
+</div>
+
+<div class="btn-row">
+  <a class="btn btn-primary" href="/assets/sAryal_resume.pdf">Resume</a>
+  <a class="btn" href="/assets/CV.pdf">Academic CV</a>
+  <a class="btn" href="https://scholar.google.com/citations?user=jZd3a_gAAAAJ&hl=en">Google Scholar</a>
+  <a class="btn" href="https://www.linkedin.com/in/sameer-aryal-nyu/">LinkedIn</a>
+</div>
+
+<h2>Contact</h2>
+<div class="contact-block">
+  Stanley Center for Psychiatric Research<br>
+  Broad Institute of MIT and Harvard<br>
+  75 Ames Street<br>
+  Cambridge, MA 02142<br>
+  <a href="mailto:sameer.aryal@gmail.com">sameer.aryal@gmail.com</a>
 </div>
