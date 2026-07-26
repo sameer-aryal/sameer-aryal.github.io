@@ -1,7 +1,7 @@
 ---
 layout: frontpage
 title: Sameer Aryal
-description: Sameer Aryal, Ph.D. is a Research Scientist at the Stanley Center for Psychiatric Research, Broad Institute of MIT and Harvard, studying RNA regulatory mechanisms in neurodevelopmental and psychiatric disorders.
+description: Sameer Aryal, Ph.D. is a Research Scientist II at the Stanley Center for Psychiatric Research, Broad Institute of MIT and Harvard, studying RNA regulatory mechanisms in neurodevelopmental and psychiatric disorders.
 keywords: Sameer Aryal, Broad Institute, Stanley Center, NYU, genomics, bioinformatics, neuropsychiatry, neurobiology, schizophrenia, bipolar disorder, proteomics, fragile X syndrome, RNA regulation, mRNA translation, ribosome profiling, RNA-seq, splicing
 ---
 
@@ -11,7 +11,7 @@ keywords: Sameer Aryal, Broad Institute, Stanley Center, NYU, genomics, bioinfor
   </a>
   <div class="hero-text">
     <h1>Sameer Aryal, Ph.D.</h1>
-    <p class="role">Research Scientist, <a href="https://www.broadinstitute.org/stanley">Stanley Center for Psychiatric Research</a> · <a href="https://www.broadinstitute.org">Broad Institute of MIT and Harvard</a></p>
+    <p class="role">Research Scientist II, <a href="https://www.broadinstitute.org/stanley">Stanley Center for Psychiatric Research</a> · <a href="https://www.broadinstitute.org">Broad Institute of MIT and Harvard</a></p>
   </div>
 </div>
 

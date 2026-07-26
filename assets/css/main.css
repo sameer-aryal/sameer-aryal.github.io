@@ -286,6 +286,11 @@ p { margin: 0 0 1em; }
   margin-bottom: 28px;
 }
 
+.pub-asof {
+  color: var(--color-text-faint);
+  font-size: 0.88rem;
+}
+
 .pub-list {
   list-style: none;
   margin: 0;
@@ -307,6 +312,12 @@ p { margin: 0 0 1em; }
   color: var(--color-text-muted);
   font-size: 0.88rem;
   margin-top: 2px;
+}
+
+.pub-blurb {
+  font-size: 0.92rem;
+  color: var(--color-text);
+  margin-top: 6px;
 }
 
 .pub-status {
