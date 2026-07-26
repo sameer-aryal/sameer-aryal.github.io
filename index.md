@@ -1,8 +1,8 @@
 ---
 layout: frontpage
 title: Sameer Aryal
-description: Sameer Aryal, Ph.D. is a Research Scientist II at the Stanley Center for Psychiatric Research, Broad Institute of MIT and Harvard, studying RNA regulatory mechanisms in neurodevelopmental and psychiatric disorders.
-keywords: Sameer Aryal, Broad Institute, Stanley Center, NYU, genomics, bioinformatics, neuropsychiatry, neurobiology, schizophrenia, bipolar disorder, proteomics, fragile X syndrome, RNA regulation, mRNA translation, ribosome profiling, RNA-seq, splicing
+description: Sameer Aryal, Ph.D. is a Research Scientist II at the Stanley Center for Psychiatric Research, Broad Institute of MIT and Harvard, studying molecular mechanisms of neurodevelopmental and psychiatric disorders through multi-omics integration, with particular expertise in RNA regulation in the brain.
+keywords: Sameer Aryal, Broad Institute, Stanley Center, NYU, genomics, bioinformatics, neuropsychiatry, neurobiology, schizophrenia, bipolar disorder, proteomics, multi-omics, network biology, WGCNA, fragile X syndrome, RNA regulation, mRNA translation, ribosome profiling, RNA-seq, splicing
 ---
 
 <div class="hero">
@@ -16,13 +16,13 @@ keywords: Sameer Aryal, Broad Institute, Stanley Center, NYU, genomics, bioinfor
 </div>
 
 <p class="summary">
-I am a neurobiologist investigating the molecular mechanisms of neurodevelopmental and psychiatric disorders. My work integrates experimental neuroscience with computational genomics &mdash; combining synaptic proteomics, transcriptomics, and genetic mouse models &mdash; to connect human disease risk genes to synaptic and circuit phenotypes. I completed my Ph.D. with <a href="http://www.klannlabnyu.org">Eric Klann</a> at the Center for Neural Science, New York University.
+I am a computational and experimental neurobiologist studying the molecular mechanisms of neuropsychiatric and neurodevelopmental disorders. My work integrates synaptic proteomics, transcriptomics, and single-cell genomics with genetic mouse models to connect human disease risk genes to synaptic and circuit phenotypes, with particular depth in RNA regulation in the brain &mdash; mRNA translation, splicing, and post-transcriptional control. I completed my Ph.D. with <a href="http://www.klannlabnyu.org">Eric Klann</a> at the Center for Neural Science, New York University.
 </p>
 
 <div class="tag-row">
-  <span class="tag">RNA regulation</span>
-  <span class="tag">Functional genomics</span>
   <span class="tag">Multi-omics integration</span>
+  <span class="tag">Functional genomics</span>
+  <span class="tag">RNA regulation in the brain</span>
   <span class="tag">Computational biology</span>
   <span class="tag">Experimental neuroscience</span>
 </div>

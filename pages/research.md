@@ -1,10 +1,10 @@
 ---
 layout: page
 title: Research
-description: Sameer Aryal's research on RNA regulatory mechanisms in neurodevelopmental and psychiatric disorders.
+description: Sameer Aryal's research on the molecular mechanisms of neurodevelopmental and psychiatric disorders, from multi-omics integration to RNA regulation in the brain.
 ---
 
-I study RNA regulatory mechanisms in the nervous system &mdash; including mRNA translation, alternative splicing, and transcriptomic regulation &mdash; and how disruption of these mechanisms connects human psychiatric risk genes to synaptic and circuit dysfunction. My approach combines synaptic proteomics, transcriptomics, and genetic mouse models with computational, genome-scale analysis.
+I am a computational and experimental neurobiologist studying the molecular mechanisms of neuropsychiatric and neurodevelopmental disorders. My approach integrates synaptic proteomics, transcriptomics, and single-cell genomics with genetic mouse models to connect human disease risk genes to synaptic and circuit phenotypes &mdash; with particular depth in RNA regulation in the brain, including mRNA translation, alternative splicing, and post-transcriptional control, and how disruption of these mechanisms contributes to disease.
 
 <h2>Current research</h2>
 <div class="entry">
@@ -44,16 +44,16 @@ As part of this earlier work on data analysis methods, I contributed to <a href=
 <h2>Core expertise</h2>
 <div class="expertise-grid">
   <div class="expertise-card">
-    <h3>RNA regulation in the brain</h3>
-    <p>Alternative splicing, mRNA translation, post-transcriptional regulation</p>
+    <h3>Multi-omics integration</h3>
+    <p>Synaptic proteomics, network biology (WGCNA), cross-species meta-analysis</p>
   </div>
   <div class="expertise-card">
     <h3>Functional genomics</h3>
     <p>Single-nucleus and bulk RNA-seq, ribosome profiling, TRAP-Seq</p>
   </div>
   <div class="expertise-card">
-    <h3>Multi-omics integration</h3>
-    <p>Synaptic proteomics, network biology (WGCNA), cross-species meta-analysis</p>
+    <h3>RNA regulation in the brain</h3>
+    <p>Alternative splicing, mRNA translation, post-transcriptional regulation</p>
   </div>
   <div class="expertise-card">
     <h3>Computational biology</h3>
