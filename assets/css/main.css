@@ -159,6 +159,13 @@ p { margin: 0 0 1em; }
   max-width: 720px;
 }
 
+.training {
+  font-size: 0.94rem;
+  color: var(--color-text-muted);
+  max-width: 720px;
+  margin-top: -0.4em;
+}
+
 /* ---------- Buttons ---------- */
 
 .btn-row {
