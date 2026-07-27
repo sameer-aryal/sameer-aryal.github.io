@@ -20,7 +20,8 @@ Schizophrenia and bipolar disorder each involve dozens of genetically distinct r
 </p>
 
 <p class="training">
-I completed my Ph.D. with <a href="http://www.klannlabnyu.org">Eric Klann</a> at the Center for Neural Science, New York University, and carried out postdoctoral training with <a href="https://shenglab.broadinstitute.org">Morgan Sheng</a> at Broad Institute of MIT and Harvard.
+In <a href="https://shenglab.broadinstitute.org"> Morgan Sheng’s </a> group at the Stanley Center for Psychiatric Research, I pursue this question through comparative multi-omics and mechanistic studies across genetic mouse models and human brain tissue, with a particular interest in recurrent disruptions of RNA regulation and synaptic biology. I completed my Ph.D. with <a href="http://www.klannlabnyu.org"> Eric Klann </a> at New York University before joining the Broad Institute.
+
 </p>
 
 <div class="tag-row">
